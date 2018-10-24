@@ -1,6 +1,2 @@
 hello World
-<<<<<<< HEAD
 hello world from develop
-=======
-hello world from master
->>>>>>> master
