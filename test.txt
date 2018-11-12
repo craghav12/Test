@@ -1,5 +1,0 @@
-hello World
-hello world from develop
-hello developer
-hello developer-1
-hello master-1
